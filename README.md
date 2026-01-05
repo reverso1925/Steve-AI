@@ -112,7 +112,7 @@ If you want to understand how it works, start in the agent package. That's where
 Standard Gradle stuff:
 
 ```bash
-git clone https://github.com/YuvDwi/Steve.git
+git clone https://github.com/reverso1925/Steve-AI.git
 cd Steve
 ./gradlew build
 ```
